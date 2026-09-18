@@ -1,85 +1,158 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:412991&height=180&section=header&text=Amirhossein%20Rezazade&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems&descAlignY=58&descSize=16"/>
+# Hi, I'm Amirhossein Rezazade 👋
+
+### AI Engineer | Backend Developer | LLM & AI Agents
+
+I build production-ready AI systems, LLM applications, AI agents, and backend infrastructure.
+
+My main focus is turning AI models and research ideas into reliable, scalable software.
+
+---
+
+## 🚀 About Me
+
+- 🤖 AI Engineer focused on **LLM Applications & AI Agents**
+- 🧠 Building systems with **RAG, LangGraph, Multi-Agent Architectures**
+- ⚡ Backend development with **Python & FastAPI**
+- 🐳 Deploying AI systems with **Docker, Nginx & CI/CD**
+- 🗄️ Working with **PostgreSQL, Redis & SQLAlchemy**
+- 🔬 Interested in **AI Research, Multimodal AI & Agentic Systems**
+- 💻 Competitive Programmer on **Codeforces**
+- 🌍 Interested in international AI/ML engineering opportunities
+
+---
+
+## 🧠 Tech Stack
+
+### AI / LLM
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6C5CE7?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Jewelry Assistant
+
+Production-oriented AI assistant for a jewelry e-commerce platform.
+
+**Stack:**
+
+`FastAPI` `PostgreSQL` `Docker` `LangGraph` `RAG` `Gemini`
+
+Features include:
+
+- Multimodal product search
+- Image-based product matching
+- Natural-language product recommendations
+- Multi-turn conversations
+- RAG-based product retrieval
+- AI-powered customer interaction
+
+---
+
+### 🗣️ RayaTalk
+
+AI-powered speech-to-text platform.
+
+**Stack:**
+
+`FastAPI` `PostgreSQL` `Python` `LLM`
+
+Features:
+
+- Audio transcription
+- File-to-text processing
+- AI-powered text correction
+- REST API
+- Persistent transcription history
+
+---
+
+### 🧪 AI / Agent Research
+
+I'm also exploring:
+
+- Autonomous AI Agents
+- Multi-Agent Systems
+- Agentic workflows
+- AI coding agents
+- Multimodal AI
+- LLM evaluation
+- Model efficiency
+- Image-to-token representations
+- AI infrastructure
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amirhrezazade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:amirh.rezazadeh79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirhRezazade&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirhRezazade&theme=github-dark&hide_border=true" />
 </p>
+
+---
+
+## 📈 Most Used Languages
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Building+production-grade+LLM+systems;RAG+pipelines+%7C+Multi-Agent+Architectures" alt="Typing SVG" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhRezazade&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-### 🧠 About Me
+---
 
-AI Engineer with an MSc in Artificial Intelligence and 3–5 years of experience designing and shipping production-grade **LLM applications**, **RAG pipelines**, and **autonomous agent systems**. Focused on building AI systems that are reliable, observable, and cost-efficient in production — not just demos.
+## 🏆 Competitive Programming
 
-- 🔭 Currently: RAG pipelines and agentic workflows for real-world use cases
-- 🌱 Exploring: agent orchestration, LLM evaluation pipelines
-- 📫 amirh.rezazadeh79@gmail.com
+I actively practice algorithmic problem solving and competitive programming.
+
+**Platform:**
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Amirh.Rezazade)
+
+Current focus:
+
+- Dynamic Programming
+- Graph Algorithms
+- Data Structures
+- Optimization
+- Advanced Algorithms
 
 ---
 
-### 🛠️ Tech Stack
+## 📫 Connect With Me
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
-![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat)
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat)
-![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhrezazade/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AmirhRezazade)
 
 ---
-
-### 🚀 Featured Projects
-
-> _لینک هر پروژه رو به ریپوی واقعی خودش وصل کن._
-
-**[🔗 Production-Grade RAG Engine](https://github.com/AmirhRezazade/rag-engine)**
-Hybrid search (BM25 + dense embeddings) با re-ranking و evaluation pipeline (RAGAS) برای اندازه‌گیری faithfulness و context precision.
-`LangChain` `Qdrant` `RAGAS` `FastAPI`
-
-**[🔗 Multi-Agent Orchestration System](https://github.com/AmirhRezazade/multi-agent-system)**
-معماری Planner → Executor → Critic با tool-calling، حافظه کوتاه/بلندمدت، و منطق retry برای بازیابی از خطا.
-`LangGraph` `OpenAI API` `Redis`
-
-**[🔗 Fine-Tuned LLM + Quantized Deployment](https://github.com/AmirhRezazade/llm-finetune-deploy)**
-Fine-tune یک مدل open-source با LoRA/QLoRA، بنچمارک accuracy/latency قبل و بعد، و deploy با quantization.
-`PyTorch` `PEFT` `vLLM`
-
-**[🔗 LLM Observability Dashboard](https://github.com/AmirhRezazade/llm-observability)**
-Logging کامل prompt/response، token usage و cost، با داشبورد برای رصد drift کیفیت پاسخ‌ها.
-`FastAPI` `PostgreSQL` `Grafana`
-
-**[🔗 Structured Output API Layer](https://github.com/AmirhRezazade/structured-llm-api)**
-تبدیل خروجی آزاد LLM به JSON ساختاریافته و validate‌شده با Pydantic، همراه retry logic و rate limiting.
-`FastAPI` `Pydantic` `Instructor`
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AmirhRezazade&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhRezazade&layout=compact&theme=tokyonight&hide_border=true" />
+  <i>Building AI systems that turn ideas into production.</i>
 </p>
-
----
-
-### 🎓 Education
-
-**M.Sc. in Artificial Intelligence** — _Islamic Azad University, Mashhad_ · 2024 – 2026
-**B.Sc. in Computer Science** — _[Islamic Azad University, Mashhad]_ · 2020 – 2024
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:412991,100:0077B5&height=90&section=footer"/>
