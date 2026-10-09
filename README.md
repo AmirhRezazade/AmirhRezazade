@@ -33,19 +33,16 @@ An experimental framework for evaluating LLM-based agents across coding and prob
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AmirhRezazade/Failbench)
 
-### 2. AI Jewelry Assistant
+### AI Jewelry Assistant
 
-An AI-powered assistant for a jewelry e-commerce platform, combining natural-language conversations with image-based product discovery.
+An AI-powered assistant for a jewelry e-commerce platform, featuring an intelligent chatbot and an AI-based virtual try-on experience.
 
 **Key Features**
 
-* Image-based product matching
-* Natural-language product recommendations
-* Retrieval-Augmented Generation (RAG)
-* Multi-turn conversations
-* AI-assisted product discovery
+* **AI Chatbot:** Helps users explore jewelry products through natural-language conversations.
+* **Front AI Virtual Try-On:** Enables virtual jewelry try-on using computer vision and image processing.
 
-**Tech Stack:** Python · FastAPI · PostgreSQL · LangGraph · RAG · Gemini · Docker
+**Tech Stack:** Python · FastAPI · PostgreSQL · LangGraph · Gemini · MediaPipe · Docker
 
 [![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Site-198754?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://mortezaaligold.ir/)
 
