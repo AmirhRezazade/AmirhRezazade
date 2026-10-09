@@ -109,10 +109,6 @@ An AI-powered speech-to-text application combining transcription workflows with 
 * **Practicality:** Turning AI capabilities into useful software
 * **Maintainability:** Clear interfaces and modular architecture
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirhRezazade\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)
-
 ## 🏅 Competitive Programming
 
 Practicing algorithmic problem-solving and data structures through competitive programming.
