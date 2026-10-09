@@ -1,158 +1,134 @@
-# Hi, I'm Amirhossein Rezazade 👋
+# Amirhossein Rezazade
 
-### AI Engineer | Backend Developer | LLM & AI Agents
-
-I build production-ready AI systems, LLM applications, AI agents, and backend infrastructure.
-
-My main focus is turning AI models and research ideas into reliable, scalable software.
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amirhrezazade/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AmirhRezazade)
+![GitHub Stars](https://img.shields.io/github/stars/AmirhRezazade?label=Stars\&style=for-the-badge)
 
 ## 🚀 About Me
 
-- 🤖 AI Engineer focused on **LLM Applications & AI Agents**
-- 🧠 Building systems with **RAG, LangGraph, Multi-Agent Architectures**
-- ⚡ Backend development with **Python & FastAPI**
-- 🐳 Deploying AI systems with **Docker, Nginx & CI/CD**
-- 🗄️ Working with **PostgreSQL, Redis & SQLAlchemy**
-- 🔬 Interested in **AI Research, Multimodal AI & Agentic Systems**
-- 💻 Competitive Programmer on **Codeforces**
-- 🌍 Interested in international AI/ML engineering opportunities
+**AI Engineer | LLM Applications | AI Agents**
 
----
+Building production-oriented AI systems that connect LLMs, intelligent agents, and backend services to solve real-world problems.
 
-## 🧠 Tech Stack
+* 🤖 Building LLM applications and AI agents
+* 🧠 Exploring LLM evaluation, multi-agent systems, and applied AI research
+* ⚙️ Developing backend services with Python and FastAPI
+* 🚀 Deploying applications with Docker, Linux, Nginx, and CI/CD
+* 🔬 Interested in reliable, measurable, and production-ready AI systems
 
-### AI / LLM
+## 🏆 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-6C5CE7?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square)
+### 1. FailBench — LLM & Agent Evaluation
 
-### Backend
+An experimental framework for evaluating LLM-based agents across coding and problem-solving tasks.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+**Key Highlights**
 
-### DevOps
+* Comparing agent strategies across controlled trials
+* Evaluating feedback-driven improvement and persistent memory
+* Running reproducible experiments with configurable seeds
+* Analyzing agent performance and failure patterns
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Tech Stack:** Python · LLM Agents · Experimental Evaluation
 
-### Development
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AmirhRezazade/Failbench)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+### 2. AI Jewelry Assistant
 
----
+An AI-powered assistant for a jewelry e-commerce platform, combining natural-language conversations with image-based product discovery.
 
-## 🔥 Featured Projects
+**Key Features**
 
-### 🤖 AI Jewelry Assistant
+* Image-based product matching
+* Natural-language product recommendations
+* Retrieval-Augmented Generation (RAG)
+* Multi-turn conversations
+* AI-assisted product discovery
 
-Production-oriented AI assistant for a jewelry e-commerce platform.
+**Tech Stack:** Python · FastAPI · PostgreSQL · LangGraph · RAG · Gemini · Docker
 
-**Stack:**
+[![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Site-198754?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://mortezaaligold.ir/)
 
-`FastAPI` `PostgreSQL` `Docker` `LangGraph` `RAG` `Gemini`
+### 3. RayaTalk — AI Speech-to-Text
 
-Features include:
+An AI-powered speech-to-text application combining transcription workflows with AI-assisted text correction.
 
-- Multimodal product search
-- Image-based product matching
-- Natural-language product recommendations
-- Multi-turn conversations
-- RAG-based product retrieval
-- AI-powered customer interaction
+**Key Features**
 
----
+* Audio and file transcription
+* AI-assisted transcription correction
+* REST API integration
+* Persistent transcription history
 
-### 🗣️ RayaTalk
+**Tech Stack:** Python · FastAPI · PostgreSQL · LLM Integration
 
-AI-powered speech-to-text platform.
+## 🛠️ Technical Skills
 
-**Stack:**
+### AI & LLM Engineering
 
-`FastAPI` `PostgreSQL` `Python` `LLM`
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents and Agentic Workflows
+* LangGraph
+* LLM Evaluation and Experimentation
+* Multimodal AI
 
-Features:
+### Backend Engineering
 
-- Audio transcription
-- File-to-text processing
-- AI-powered text correction
-- REST API
-- Persistent transcription history
+* Python
+* FastAPI
+* REST APIs
+* PostgreSQL
+* SQLAlchemy
+* Redis
 
----
+### Deployment & Infrastructure
 
-### 🧪 AI / Agent Research
+* Docker
+* Linux
+* Nginx
+* Git & GitHub
+* GitHub Actions
+* CI/CD
 
-I'm also exploring:
+### Programming Languages
 
-- Autonomous AI Agents
-- Multi-Agent Systems
-- Agentic workflows
-- AI coding agents
-- Multimodal AI
-- LLM evaluation
-- Model efficiency
-- Image-to-token representations
-- AI infrastructure
+* Python
+* C++
+* Kotlin
 
----
+## 🔬 Research Interests
 
-## 📊 GitHub Stats
+* LLM evaluation and reliability
+* Multi-agent systems and agentic workflows
+* Multimodal AI
+* Efficient AI inference
+* AI-assisted software engineering
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirhRezazade&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirhRezazade&theme=github-dark&hide_border=true" />
-</p>
+## 🧩 Engineering Principles
 
----
+* **Reproducibility:** Configurable and repeatable experiments
+* **Reliability:** Handling errors and real-world constraints
+* **Practicality:** Turning AI capabilities into useful software
+* **Maintainability:** Clear interfaces and modular architecture
 
-## 📈 Most Used Languages
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhRezazade&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirhRezazade\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)
 
----
+## 🏅 Competitive Programming
 
-## 🏆 Competitive Programming
+Practicing algorithmic problem-solving and data structures through competitive programming.
 
-I actively practice algorithmic problem solving and competitive programming.
-
-**Platform:**
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Amirh.Rezazade)
-
-Current focus:
-
-- Dynamic Programming
-- Graph Algorithms
-- Data Structures
-- Optimization
-- Advanced Algorithms
-
----
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/Amirh.Rezazade)
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhrezazade/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AmirhRezazade)
+* 💼 [LinkedIn](https://www.linkedin.com/in/amirhrezazade/)
+* 💻 [GitHub](https://github.com/AmirhRezazade)
 
 ---
 
-<p align="center">
-  <i>Building AI systems that turn ideas into production.</i>
-</p>
+**Building AI systems that turn ideas into production.**
+
+*Amirhossein Rezazade · AI Engineer*
